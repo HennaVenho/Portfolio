@@ -2311,7 +2311,15 @@ input, select, textarea {
 
 		}
 
+.profile-container {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px; /* Adds space between text and image */
+}
 
+.text-content {
+    flex: 1; /* Makes the text take available space */
+}
 
 .profile-image {
     width: 200px; 
