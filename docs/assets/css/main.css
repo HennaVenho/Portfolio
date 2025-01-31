@@ -2001,7 +2001,7 @@ input, select, textarea {
 				-ms-transform: translateZ(0);
 				transform: translateZ(0);
 				position: relative;
-				width: 6%;
+				width: 60%;
 				margin: 0;
 			}
 
@@ -2311,15 +2311,6 @@ input, select, textarea {
 
 		}
 
-.profile-container {
-    display: flex;
-    align-items: flex-start;
-    gap: 20px; /* Adds space between text and image */
-}
-
-.text-content {
-    flex: 1; /* Makes the text take available space */
-}
 
 .profile-image {
     width: 200px; 
