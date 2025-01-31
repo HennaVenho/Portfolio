@@ -2321,7 +2321,7 @@ input, select, textarea {
     flex: 1; 
 }
 
-.profile-image {
+.main.style2 .profile-image {
     width: 20%; 
 	margin-left: 10px;
     height: auto;
