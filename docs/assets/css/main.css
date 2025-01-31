@@ -2311,12 +2311,3 @@ input, select, textarea {
 
 		}
 
-
-.profile-image {
-    width: 15%; 
-	align: right;
-	/*margin-left: 10px;*/
-    height: auto;
-    /*border-radius: 50%; */
-    object-fit: cover;
-}
