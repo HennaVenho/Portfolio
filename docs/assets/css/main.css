@@ -2311,6 +2311,7 @@ input, select, textarea {
 
 		}
 
+/*
 .profile-container {
     display: flex;
     align-items: flex-start;
@@ -2320,9 +2321,10 @@ input, select, textarea {
 .text-content {
     flex: 1; 
 }
+*/
 
 .main.style2 .profile-image {
-    width: 20%; 
+    width: 15%; 
 	margin-left: 10px;
     height: auto;
     /*border-radius: 50%; */
