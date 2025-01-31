@@ -2311,6 +2311,15 @@ input, select, textarea {
 
 		}
 
+.profile-container {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px; 
+}
+
+.text-content {
+    flex: 1; 
+}
 
 .profile-image {
     width: 200px; 
