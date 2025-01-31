@@ -2001,7 +2001,7 @@ input, select, textarea {
 				-ms-transform: translateZ(0);
 				transform: translateZ(0);
 				position: relative;
-				width: 70%;
+				width: 6%;
 				margin: 0;
 			}
 
@@ -2322,7 +2322,8 @@ input, select, textarea {
 }
 
 .profile-image {
-    width: 150px; 
+    width: 20%; 
+	margin-left: 10px;
     height: auto;
     /*border-radius: 50%; */
     object-fit: cover;
