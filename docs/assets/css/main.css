@@ -2314,7 +2314,7 @@ input, select, textarea {
 
 .main.style2 .profile-image {
     width: 15%; 
-	margin-left: 10px;
+	/*margin-left: 10px;*/
     height: auto;
     /*border-radius: 50%; */
     object-fit: cover;
