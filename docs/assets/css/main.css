@@ -1062,6 +1062,7 @@ input, select, textarea {
 			justify-content: center;
 			width: 100%;
 			margin-left: 0;
+			margin-bottom: 20px;
 		}
 
 			ul.actions.special li:first-child {
@@ -2329,9 +2330,8 @@ input, select, textarea {
     object-fit: cover;
 }
 
-.header-div {
-	display: flex;
-    gap: 15px; 
+.header-div .icons {
+	margin-left: 50px; 
 }
 
 .lists-container {
