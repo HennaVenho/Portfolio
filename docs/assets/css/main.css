@@ -2001,7 +2001,7 @@ input, select, textarea {
 				-ms-transform: translateZ(0);
 				transform: translateZ(0);
 				position: relative;
-				width: 60%;
+				width: 70%;
 				margin: 0;
 			}
 
@@ -2329,9 +2329,14 @@ input, select, textarea {
     object-fit: cover;
 }
 
+.header-div {
+	display: flex;
+    gap: 15px; 
+}
+
 .lists-container {
     display: flex;
-    gap: 40px; 
+    gap: 10px; 
 }
 
 ul {
