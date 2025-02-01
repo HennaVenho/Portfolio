@@ -1062,7 +1062,7 @@ input, select, textarea {
 			justify-content: center;
 			width: 100%;
 			margin-left: 0;
-			margin-bottom: 100px;
+			margin-bottom: 70px;
 		}
 
 			ul.actions.special li:first-child {
@@ -2332,7 +2332,8 @@ input, select, textarea {
 }
 
 .header-div .icons .icon.brands.fa-linkedin-in {
-	margin-left: 100px; 
+	margin-left: 150px; 
+	color: blue;
 }
 
 .lists-container {
@@ -2349,6 +2350,6 @@ ul li {
     margin-bottom: 5px;
 }
 
-li .li-header {
+ul li .li-header {
 	list-style-type: none;
 }
