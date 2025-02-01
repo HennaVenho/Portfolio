@@ -1062,7 +1062,7 @@ input, select, textarea {
 			justify-content: center;
 			width: 100%;
 			margin-left: 0;
-			margin-bottom: 20px;
+			margin-bottom: 40px;
 		}
 
 			ul.actions.special li:first-child {
@@ -2330,13 +2330,13 @@ input, select, textarea {
     object-fit: cover;
 }
 
-.header-div .icons {
-	margin-left: 50px; 
+.header-div .icons .icon.brands.fa-linkedin-in {
+	margin-left: 100px; 
 }
 
 .lists-container {
     display: flex;
-    gap: 10px; 
+    gap: 25px; 
 }
 
 ul {
