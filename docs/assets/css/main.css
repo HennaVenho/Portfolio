@@ -2328,3 +2328,21 @@ input, select, textarea {
     /*border-radius: 50%; */
     object-fit: cover;
 }
+
+.lists-container {
+    display: flex;
+    gap: 40px; 
+}
+
+ul {
+    list-style-type: disc; /* Uses default bullet points */
+    padding-left: 20px;
+}
+
+ul li {
+    margin-bottom: 5px;
+}
+
+li .li-header {
+	list-style-type: none;
+}
