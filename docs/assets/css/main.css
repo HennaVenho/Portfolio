@@ -1062,11 +1062,12 @@ input, select, textarea {
 			justify-content: center;
 			width: 100%;
 			margin-left: 0;
-			margin-bottom: 60px;
+			margin-bottom: 100px;
 		}
 
 			ul.actions.special li:first-child {
 				padding-left: 0;
+				margin-bottom: 100px;
 			}
 
 		ul.actions.stacked {
@@ -2336,7 +2337,7 @@ input, select, textarea {
 
 .lists-container {
     display: flex;
-    gap: 25px; 
+    gap: 30px; 
 }
 
 ul {
