@@ -2489,3 +2489,15 @@ ul .li-skills {
 	margin-bottom: 8px;
 	min-height: 2.5em;
 }
+
+.popup-link a {
+	text-decoration: none;
+	background: rgba(255, 255, 255, 0.2);
+	padding: 8px 12px;
+	border-radius: 5px;
+	transition: 0.3s;
+}
+
+.popup-link a:hover {
+	background: rgba(255, 255, 255, 0.4);
+}
