@@ -1579,9 +1579,11 @@ body.is-touch .poptrox-popup .closer {
 	display: block;
 }
 
+/* 
 .gallery article .image:hover {
 	transform: translate(-50%, -50%) scale(1.1);
 }
+*/
 
 .gallery article:nth-last-child(1n) {
 	-moz-transition-delay: 0.05s;
@@ -2468,16 +2470,16 @@ body.is-touch .main {
 	align-items: flex-start;
 }
 
-ul {
+.ul-skills {
 	list-style-type: disc;
 	/* Uses default bullet points */
 	padding-left: 20px;
-	/*text-align: left !important;*/
-	/*display: flex;
-    flex-direction: column;*/
+	text-align: left !important;
+	display: flex;
+	flex-direction: column;
 }
 
-ul li {
+ul .li-skills {
 	margin-bottom: 5px;
 }
 
