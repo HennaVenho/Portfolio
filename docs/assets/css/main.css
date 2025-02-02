@@ -2337,12 +2337,15 @@ input, select, textarea {
 .lists-container {
     display: flex;
     gap: 30px; 
+	align-items: flex-start;
 }
 
 ul {
     list-style-type: disc; /* Uses default bullet points */
     padding-left: 20px;
 	text-align: left !important;
+	display: flex;
+    flex-direction: column;
 }
 
 ul li {
@@ -2353,4 +2356,5 @@ ul li {
 	list-style-type: none;
 	font-weight: bold; 
     margin-bottom: 8px; 
+	min-height: 2.5em;
 }
