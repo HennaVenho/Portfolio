@@ -5,7 +5,7 @@ Please find the READMEs and some screenshots of my completed programs in the pro
 And please feel free to contact me and ask for the source code, and I will be happy to share it with you, although I cannot make project repositories public.
 
 
-## Projects
+## :star2: Projects
 
 - ASCII Art Decoder/Encoder (April 2024)
 - Cars Viewer (May 2024)
