@@ -32,6 +32,10 @@ And please feel free to contact me and ask for the source code, and I will be ha
 - Github: <a href="https://github.com/HennaVenho" target="_blank"
                     rel="noopener noreferrer">Github Profile</a>
 
+You can also check out: 
+- kood/Sisu: <a href="https://koodsisu.fi/" target="_blank"
+                    rel="noopener noreferrer">kood/Sisu Homepage</a>
+
 
 ## :sunglasses: Coder 
 
