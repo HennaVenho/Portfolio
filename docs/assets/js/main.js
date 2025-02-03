@@ -93,7 +93,7 @@
 			windowMargin: 50,
 			usePopupNav: true,
 
-			onPopupOpen: function (src, $popup) {
+			onPopupOpen: function dothis(src, $popup) {
 				var currentImage = $('a[href="' + src + '"]'); // Find the clicked image
 				var projectLink = currentImage.attr('data-link'); // Get the project link
 
