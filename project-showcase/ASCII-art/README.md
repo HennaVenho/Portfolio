@@ -176,7 +176,7 @@ Will result in the following output in the output.txt file:<br>
 
 Here is a visual of the web interface in action:
 
-![Server Full Screenshot](./webArt/www/server_full.png)
+![Server Full Screenshot](/art-interface.png)
 
 
 This is the end of the README file.<br>
