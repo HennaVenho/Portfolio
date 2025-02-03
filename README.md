@@ -1,6 +1,6 @@
 # Welcome to My Portfolio!
 
-Please find my project READMEs and some screenshots under the :open_file_folder: "project-showcase" folder. 
+Please find my project READMEs and some screenshots under the :open_file_folder: <a href="https://github.com/HennaVenho/Portfolio/tree/main/project-showcase" target="_blank" rel="noopener noreferrer">"project-showcase" folder</a>. 
 
 And please feel free to contact me and ask for the source code, and I will be happy to share it with you, although I cannot make project repositories public.
 
