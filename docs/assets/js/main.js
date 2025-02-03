@@ -91,21 +91,20 @@
 			usePopupCaption: true,
 			popupLoaderText: '',
 			windowMargin: 50,
-			usePopupNav: true
+			usePopupNav: true,
 
-		});
+			onPopupOpen: function (src, $popup) {
+				var currentImage = $('a[href="' + src + '"]'); // Find the clicked image
+				var projectLink = currentImage.attr('data-link'); // Get the project link
 
-		onPopupOpen: function (src, $popup) {
-			var currentImage = $('a[href="' + src + '"]'); // Find the clicked image
-			var projectLink = currentImage.attr('data-link'); // Get the project link
-
-			if (projectLink) {
-				var linkText = '<div class="popup-link" style="text-align: center; margin-top: 10px;">' +
-					'<a href="' + projectLink + '" target="_blank" style="color: white; font-size: 16px;">' +
-					'View Project Details</a></div>';
-				$popup.append(linkText);
+				if (projectLink) {
+					var linkText = '<div class="popup-link" style="text-align: center; margin-top: 10px;">' +
+						'<a href="' + projectLink + '" target="_blank" style="color: white; font-size: 16px;">' +
+						'View Project Details</a></div>';
+					$popup.append(linkText);
+				}
 			}
-		}
+		});
 
 		// Hack: Adjust margins when 'small' activates.
 		breakpoints.on('>small', function () {
