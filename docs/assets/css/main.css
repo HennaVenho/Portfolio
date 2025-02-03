@@ -1572,11 +1572,24 @@ body.is-touch .poptrox-popup .closer {
 	position: relative;
 	opacity: 1.0;
 	text-align: center;
+	padding: 5px;
 }
 
 .gallery article .image {
 	margin: 0;
 	display: block;
+
+	border: 3px solid #ddd;
+	/* Light grey border */
+	border-radius: 5px;
+	/* Slightly rounded corners */
+	transition: border-color 0.3s;
+	/* Smooth hover effect */
+}
+
+.gallery article img:hover {
+	border-color: #555;
+	/* Darker border on hover */
 }
 
 /* 
