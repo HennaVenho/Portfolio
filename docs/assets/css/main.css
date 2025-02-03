@@ -1588,6 +1588,14 @@ body.is-touch .poptrox-popup .closer {
 }
 */
 
+.gallery-title {
+	text-align: center;
+	font-size: 16px;
+	font-weight: bold;
+	margin-top: 5px;
+	color: #895c9e;
+}
+
 .gallery article:nth-last-child(1n) {
 	-moz-transition-delay: 0.05s;
 	-webkit-transition-delay: 0.05s;
@@ -2234,7 +2242,7 @@ body.is-touch .main {
 @media screen and (max-width: 1000px) {
 
 	.main.style2 .content {
-		width: 60%;
+		width: 70%;
 	}
 
 }
