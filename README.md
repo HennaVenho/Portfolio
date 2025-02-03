@@ -35,5 +35,4 @@ And please feel free to contact me and ask for the source code, and I will be ha
 
 ## :sunglasses: Coder 
 
-Henna Venho <br>
-:copyright: 2025
+:copyright: Henna Venho 2025
