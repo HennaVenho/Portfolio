@@ -1,6 +1,6 @@
 # Welcome to My Portfolio!
 
-Please find my project READMEs and some screenshots under the "project-showcase" folder. 
+Please find my project READMEs and some screenshots under the :open_file_folder: "project-showcase" folder. 
 
 And please feel free to contact me and ask for the source code, and I will be happy to share it with you, although I cannot make project repositories public.
 
