@@ -24,16 +24,16 @@ And please feel free to contact me and ask for the source code, and I will be ha
 
 ## :mailbox: Contact Me
 
-Email: hennavenho@gmail.com
-LinkedIn: <a href="https://www.linkedin.com/in/henna-venho" target="_blank"
+- Email: hennavenho@gmail.com
+- LinkedIn: <a href="https://www.linkedin.com/in/henna-venho" target="_blank"
                     rel="noopener noreferrer">LinkedIn Profile</a>
-Portfolio: <a href="https://hennavenho.github.io/Portfolio/" target="_blank"
+- Portfolio: <a href="https://hennavenho.github.io/Portfolio/" target="_blank"
                     rel="noopener noreferrer">Portfolio</a>
-Github: <a href="https://github.com/HennaVenho" target="_blank"
+- Github: <a href="https://github.com/HennaVenho" target="_blank"
                     rel="noopener noreferrer">Github Profile</a>
 
 
 ## :sunglasses: Coder 
 
-Henna Venho
+Henna Venho <br>
 :copyright: 2025
