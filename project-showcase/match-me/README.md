@@ -1,6 +1,7 @@
 # MATCH-ME: Game-Grindr
 
 - Team: Henna Venho and Mikko Venäläinen
+- 7th task at kood/Sisu (January 2025)
 
 
 ## Introduction
