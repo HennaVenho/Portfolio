@@ -7,7 +7,7 @@ And please feel free to contact me and ask for the source code, and I will be ha
 
 ## :star2: Projects
 
-- [Frontend Framework with Example ToDo App (February 2025)](./frontend-framework/)
+- [Frontend Framework with Example ToDo App](./frontend-framework/) (February 2025)
 - [Match-Me: Game-Grindr (January 2025)](./match-me/)
 - [Racetrack (November 2024)](./racetrack/)
 - [Literary-Lions Forum (August 2024)](./literary-lions-forum/)
