@@ -8,14 +8,14 @@ And please feel free to contact me and ask for the source code, and I will be ha
 ## :star2: Projects
 
 - [Frontend Framework with Example ToDo App](./frontend-framework/) (February 2025)
-- [Match-Me: Game-Grindr (January 2025)](./match-me/)
-- [Racetrack (November 2024)](./racetrack/)
-- [Literary-Lions Forum (August 2024)](./literary-lions-forum/)
-- [Stations Pathfinder (June 2024)](./stations-pathfinder/)
-- [Cars Viewer (May 2024)](./cars-viewer/)
-- [ASCII Art Decoder/Encoder (April 2024)](./ASCII-art/)
-- [Itinerary Prettifier (March 2024)](./itinerary/)
-- [Notes Tool (February 2024)](./notes/)
+- [Match-Me: Game-Grindr](./match-me/) (January 2025)
+- [Racetrack](./racetrack/) (November 2024)
+- [Literary-Lions Forum](./literary-lions-forum/) (August 2024)
+- [Stations Pathfinder](./stations-pathfinder/) (June 2024)
+- [Cars Viewer](./cars-viewer/) (May 2024)
+- [ASCII Art Decoder/Encoder](./ASCII-art/) (April 2024)
+- [Itinerary Prettifier](./itinerary/) (March 2024)
+- [Notes Tool](./notes/) (February 2024)
 
 ## :mailbox: Contact Me
 
