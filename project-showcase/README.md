@@ -7,14 +7,16 @@ And please feel free to contact me and ask for the source code, and I will be ha
 
 ## :star2: Projects
 
-- ASCII Art Decoder/Encoder (April 2024)
-- Cars Viewer (May 2024)
-- Itinerary Prettifier (March 2024)
-- Literary-Lions Forum (August 2024)
-- Match-Me: Game-Grindr (January 2025)
-- Notes Tool (February 2024)
+- [Frontend Framework with Example ToDo App (February 2025)](./frontend-framework/)
+- [Match-Me: Game-Grindr (January 2025)](./match-me/)
+
 - Racetrack (November 2024)
+- Literary-Lions Forum (August 2024)
 - Stations Pathfinder (June 2024)
+- Cars Viewer (May 2024)
+- ASCII Art Decoder/Encoder (April 2024)
+- Itinerary Prettifier (March 2024)
+- Notes Tool (February 2024)
 
 
 ## :mailbox: Contact Me
