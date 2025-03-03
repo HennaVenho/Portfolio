@@ -34,7 +34,7 @@ Framework includes `HashRouter` to handle client-side navigation using URL fragm
 ![Project architechture](framework_architecture.webp)
 
 ## Installation
-Make sure you have installed and built the framework as it was instructed in [root README](/README.md) and you have `dot-js.js` in `framework/runtime/dist`.
+Make sure you have installed and built the framework as it was instructed in [root README](./README.md) and you have `dot-js.js` in `framework/runtime/dist`.
 
 ## Getting started (with examples of ToDo-project)
 
