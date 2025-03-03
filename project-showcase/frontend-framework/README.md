@@ -33,7 +33,7 @@ Frontend framework is a framework built from scratch. It provides tools for DOM 
 Clone the repository to your computer and change directory to it:
 
 ```console
-git clone https://gitea.koodsisu.fi/mikkovenalainen/frontend-framework.git
+git clone https://github.com/HennaVenho/frontend-framework.git
 cd frontend-framework
 ```
 
@@ -54,7 +54,7 @@ go run .
 ```
 You can now open [localhost:56789](http://localhost:56789)
 
-Read the [Framework README](framework/README.md) for a **Getting started** guide to create your own program and **detailed explanation of each feature** of the framework
+Read the [Framework README](/FRAMEWORK_README.md) for a **Getting started** guide to create your own program and **detailed explanation of each feature** of the framework
 
 ## Example ToDo-project:
 
@@ -66,7 +66,7 @@ The example project is a simple application to keep track of todo-tasks.
 
 **About** page has a list of core capabilities of the framework. It also has a view to indicate the use of *bubbling prevention*.  
 
-![Bubbling](./framework/pictures/bubbling.png)
+![Bubbling](/bubbling.png)
 
 Both divs have an event handler. With bubbling enabled, clicking the inner div should also trigger the event handler of the outer div. But when bubbling is disabled, only the event handler of the div you clicked is invoked.  
 If you want to test the functionality with bubbling enabled, search the following function from `framework/runtime/dist/dot-js.js` and comment out the row with `e.stopPropagation`.  
@@ -92,7 +92,7 @@ Add a button to the completed todo-item to revert the item back to **Active** pa
 #### Delete
 Add a button to delete the completed todo-item from the **completed** page (and the whole app) 
 
-Try to implement these ideas on your own first, if you want to check the way that we implemented these features, check them from [here](./example/todoapp_restore_delete.js).
+Try to implement these ideas on your own first. If you want to check the way that we implemented these features, check them from ./example/todoapp_restore_delete.js.
 
 
 ## Authors

@@ -31,10 +31,10 @@ Components communicate using an event system with `emit()`. Events prevent unnec
 5. **Built-in router for navigation**  
 Framework includes `HashRouter` to handle client-side navigation using URL fragments (`#routes`). This allows single-page applications (SPAs) to manage views without full-page reloads.
 
-![Project architechture](./pictures/framework_architecture.webp)
+![Project architechture](framework_architecture.webp)
 
 ## Installation
-Make sure you have installed and built the framework as it was instructed in [root README](../README.md) and you have `dot-js.js` in `framework/runtime/dist`.
+Make sure you have installed and built the framework as it was instructed in [root README](/README.md) and you have `dot-js.js` in `framework/runtime/dist`.
 
 ## Getting started (with examples of ToDo-project)
 
@@ -82,7 +82,7 @@ app.mount(document.body)
 
 ## Detailed Explanation of Each Feature
 
-Below is an explanation of the features you need to use to make your own project. You can find an example code of ToDo app that uses all the features [here](../example/todoapp.js) 
+Below is an explanation of the features you need to use to make your own project. You can find an example code of ToDo app that uses all the features at ../example/todoapp_full.js. 
 
 <details id="define-component">
 <summary>defineComponent</summary>
