@@ -9,15 +9,13 @@ And please feel free to contact me and ask for the source code, and I will be ha
 
 - [Frontend Framework with Example ToDo App (February 2025)](./frontend-framework/)
 - [Match-Me: Game-Grindr (January 2025)](./match-me/)
-
-- Racetrack (November 2024)
-- Literary-Lions Forum (August 2024)
-- Stations Pathfinder (June 2024)
-- Cars Viewer (May 2024)
-- ASCII Art Decoder/Encoder (April 2024)
-- Itinerary Prettifier (March 2024)
-- Notes Tool (February 2024)
-
+- [Racetrack (November 2024)](./racetrack/)
+- [Literary-Lions Forum (August 2024)](./literary-lions-forum/)
+- [Stations Pathfinder (June 2024)](./stations-pathfinder/)
+- [Cars Viewer (May 2024)](./cars-viewer/)
+- [ASCII Art Decoder/Encoder (April 2024)](./ASCII-art/)
+- [Itinerary Prettifier (March 2024)](./itinerary/)
+- [Notes Tool (February 2024)](./notes/)
 
 ## :mailbox: Contact Me
 
