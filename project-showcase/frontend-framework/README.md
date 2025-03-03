@@ -54,7 +54,7 @@ go run .
 ```
 You can now open [localhost:56789](http://localhost:56789)
 
-Read the [Framework README](/FRAMEWORK_README.md) for a **Getting started** guide to create your own program and **detailed explanation of each feature** of the framework
+Read the [Framework README](./FRAMEWORK_README.md) for a **Getting started** guide to create your own program and **detailed explanation of each feature** of the framework
 
 ## Example ToDo-project:
 
@@ -66,7 +66,7 @@ The example project is a simple application to keep track of todo-tasks.
 
 **About** page has a list of core capabilities of the framework. It also has a view to indicate the use of *bubbling prevention*.  
 
-![Bubbling](/bubbling.png)
+![Bubbling](./bubbling.png)
 
 Both divs have an event handler. With bubbling enabled, clicking the inner div should also trigger the event handler of the outer div. But when bubbling is disabled, only the event handler of the div you clicked is invoked.  
 If you want to test the functionality with bubbling enabled, search the following function from `framework/runtime/dist/dot-js.js` and comment out the row with `e.stopPropagation`.  
