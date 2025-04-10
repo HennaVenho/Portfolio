@@ -78,23 +78,23 @@ The goal of DyeHard is to score the most points in the given time. Game provides
 
 
 ### Scorewheel
-![Scorewheel](/power-ups/scorewheel.png)  
+![Scorewheel](./power-ups/scorewheel.png)  
 Scorewheel transfers all the tiles of your respective colour to points. The scoring system is cumulatively increasing so that you receive 1 point for the first square, 2 points for the second square, 3 points for the third square etc.   
 For example if you have 10 colored squares before gathering scorewheel, you will receive 55 points. 
 
 
 ### Bomb
-![Bomb](/power-ups/bomb.png)  
+![Bomb](./power-ups/bomb.png)  
 Bomb decreases your points by 100. The explosion affects all the adjacent squares of the bomb.
 
 
 ### Lightning
-![Lightning](/power-ups/lightning.png)  
+![Lightning](./power-ups/lightning.png)  
 Lightning gives you an energy boost for 10 seconds, making you move quicker.
 
 
 ### Arrow
-![Arrow](/power-ups/arrow.png)  
+![Arrow](./power-ups/arrow.png)  
 Arrow paints the rest of the row/column with your colour.
 
 
@@ -102,7 +102,7 @@ Arrow paints the rest of the row/column with your colour.
 
 Here is a visual of the DyeHard multi-player game in action:
 
-![DyeHard Screenshot](/game-in-progress.png)
+![DyeHard Screenshot](./game-in-progress.png)
 
 
 ## Credits
