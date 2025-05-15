@@ -7,6 +7,7 @@ And please feel free to contact me and ask for the source code, and I will be ha
 
 ## :star2: Projects
 
+- [Digital Detective](./digital-detective/) (May 2025)
 - [Multiplayer Web-Game: DyeHard](./web-game/) (April 2025)
 - [Frontend Framework with Example ToDo App](./frontend-framework/) (February 2025)
 - [Match-Me: Game-Grindr](./match-me/) (January 2025)
