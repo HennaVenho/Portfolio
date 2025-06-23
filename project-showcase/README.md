@@ -7,17 +7,24 @@ And please feel free to contact me and ask for the source code, and I will be ha
 
 ## :star2: Projects
 
-- [Digital Detective](./digital-detective/) (May 2025)
-- [Multiplayer Web-Game: DyeHard](./web-game/) (April 2025)
-- [Frontend Framework with Example ToDo App](./frontend-framework/) (February 2025)
-- [Match-Me: Game-Grindr](./match-me/) (January 2025)
-- [Racetrack](./racetrack/) (November 2024)
-- [Literary-Lions Forum](./literary-lions-forum/) (August 2024)
-- [Stations Pathfinder](./stations-pathfinder/) (June 2024)
-- [Cars Viewer](./cars-viewer/) (May 2024)
-- [ASCII Art Decoder/Encoder](./ASCII-art/) (April 2024)
-- [Itinerary Prettifier](./itinerary/) (March 2024)
-- [Notes Tool](./notes/) (February 2024)
+- Cybersecurity Specialization Module: 
+    - [InvisiBits: Steganography Tool](./invisibits/) (June 2025)
+    - [Port Prowler: Port Scanning Tool](./port-prowler/) (June 2025)
+    - [Digital Detective: Data Scraper](./digital-detective/) (May 2025)
+
+- JavaScript Module: 
+    - [Multiplayer Web-Game: DyeHard](./web-game/) (April 2025)
+    - [Frontend Framework with Example ToDo App](./frontend-framework/) (February 2025)
+    - [Match-Me: Game-Grindr](./match-me/) (January 2025)
+    - [Racetrack](./racetrack/) (November 2024)
+
+- Golang Module:
+    - [Literary-Lions Forum](./literary-lions-forum/) (August 2024)
+    - [Stations Pathfinder](./stations-pathfinder/) (June 2024)
+    - [Cars Viewer](./cars-viewer/) (May 2024)
+    - [ASCII Art Decoder/Encoder](./ASCII-art/) (April 2024)
+    - [Itinerary Prettifier](./itinerary/) (March 2024)
+    - [Notes Tool](./notes/) (February 2024)
 
 ## :mailbox: Contact Me
 
