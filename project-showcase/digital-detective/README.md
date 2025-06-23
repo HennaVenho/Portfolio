@@ -312,7 +312,7 @@ python3 data_digger.py -ip 8.8.8.8 -un recyclops -n "Henna Venho" -bn "Ponsse Oy
 
 You can find examples of the tool search results in the `./examples/` folder, and here is a visual of the Digital Detective tool in action:
 
-![Digital Detective Screenshot1](./examples/screenshots/multi-search-screenshot1.png)
+![Digital Detective Screenshot1](./multi-search-screenshot1.png)
 
 
 ## Disclaimer :exclamation:

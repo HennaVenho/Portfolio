@@ -1,0 +1,11 @@
+Scan Type: UDP
+Target IP: 192.168.0.15
+Started: 2025-06-09 16:33:04.170368
+Completed: 2025-06-09 16:33:04.180984
+Duration: 0:00:00.010616
+
+Port 80 (HTTP): Closed [UDP]
+Port 443 (HTTPS): Closed [UDP]
+Port 8080 (HTTP-ALT): Closed [UDP]
+
+OS Detection: Linux/Unix (TTL=63, probability: medium)

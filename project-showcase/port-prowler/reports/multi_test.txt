@@ -1,0 +1,25 @@
+Scan Type: TCP
+Target IP: 192.168.0.15
+Started: 2025-06-09 17:09:01.683225
+Completed: 2025-06-09 17:09:01.706549
+Duration: 0:00:00.023324
+
+Port 80 (HTTP): Open (HTTP/1.1 200 OK) [TCP]
+
+Scan Type: UDP
+Target IP: 192.168.0.15
+Started: 2025-06-09 17:09:01.710883
+Completed: 2025-06-09 17:09:01.713323
+Duration: 0:00:00.002440
+
+Port 80 (HTTP): Closed [UDP]
+
+Scan Type: STEALTH
+Target IP: 192.168.0.15
+Started: 2025-06-09 17:09:01.716294
+Completed: 2025-06-09 17:09:01.902368
+Duration: 0:00:00.186074
+
+Port 80 (HTTP): Open (HTTP/1.1 200 OK) [Stealth]
+
+OS Detection: Linux (TTL=63, probability: medium)
