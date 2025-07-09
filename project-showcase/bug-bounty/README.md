@@ -54,7 +54,7 @@
 
 #### 1. Clone the Repository and Navigate to It
 ```
-git clone https://gitea.kood.tech/hennamariahelenavenho/bug-bounty.git
+git clone https://github.com/HennaVenho/bug-bounty.git
 cd bug-bounty
 ```
 
