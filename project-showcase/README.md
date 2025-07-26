@@ -26,6 +26,7 @@ And please feel free to contact me and ask for the source code, and I will be ha
     - [ASCII Art Decoder/Encoder](./ASCII-art/) (April 2024)
     - [Itinerary Prettifier](./itinerary/) (March 2024)
     - [Notes Tool](./notes/) (February 2024)
+    - [Cyphertool](./cyphertool/) (February 2024)
 
 ## :mailbox: Contact Me
 
