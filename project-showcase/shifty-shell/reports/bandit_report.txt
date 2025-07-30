@@ -1,0 +1,140 @@
+Run started:2025-07-20 23:38:39.699124
+
+Test results:
+>> Issue: [B104:hardcoded_bind_all_interfaces] Possible binding to all interfaces.
+   Severity: Medium   Confidence: Medium
+   CWE: CWE-605 (https://cwe.mitre.org/data/definitions/605.html)
+   More Info: https://bandit.readthedocs.io/en/1.8.6/plugins/b104_hardcoded_bind_all_interfaces.html
+   Location: server/attacker_server.py:10:12
+9	
+10	LISTEN_IP = '0.0.0.0'
+11	LISTEN_PORT = 4545
+
+--------------------------------------------------
+>> Issue: [B311:blacklist] Standard pseudo-random generators are not suitable for security/cryptographic purposes.
+   Severity: Low   Confidence: High
+   CWE: CWE-330 (https://cwe.mitre.org/data/definitions/330.html)
+   More Info: https://bandit.readthedocs.io/en/1.8.6/blacklists/blacklist_calls.html#b311-random
+   Location: server/attacker_server.py:15:17
+14	
+15	current_method = random.choice(ENCRYPTION_METHODS)
+16	print(f"[+] Initial encryption method: {current_method}")
+
+--------------------------------------------------
+>> Issue: [B311:blacklist] Standard pseudo-random generators are not suitable for security/cryptographic purposes.
+   Severity: Low   Confidence: High
+   CWE: CWE-330 (https://cwe.mitre.org/data/definitions/330.html)
+   More Info: https://bandit.readthedocs.io/en/1.8.6/blacklists/blacklist_calls.html#b311-random
+   Location: server/attacker_server.py:18:18
+17	
+18	switch_interval = random.randint(15, 30)
+19	connection_active = True
+
+--------------------------------------------------
+>> Issue: [B311:blacklist] Standard pseudo-random generators are not suitable for security/cryptographic purposes.
+   Severity: Low   Confidence: High
+   CWE: CWE-330 (https://cwe.mitre.org/data/definitions/330.html)
+   More Info: https://bandit.readthedocs.io/en/1.8.6/blacklists/blacklist_calls.html#b311-random
+   Location: server/attacker_server.py:93:21
+92	    available_methods = [m for m in ENCRYPTION_METHODS if m != old_method]
+93	    current_method = random.choice(available_methods)
+94	    print(f"[+] Switching encryption to {current_method}")
+
+--------------------------------------------------
+>> Issue: [B304:blacklist] Use of insecure cipher cryptography.hazmat.primitives.ciphers.algorithms.TripleDES. Replace with a known secure cipher such as AES.
+   Severity: High   Confidence: High
+   CWE: CWE-327 (https://cwe.mitre.org/data/definitions/327.html)
+   More Info: https://bandit.readthedocs.io/en/1.8.6/blacklists/blacklist_calls.html#b304-b305-ciphers-and-modes
+   Location: shell/encryption.py:191:20
+190	
+191	    cipher = Cipher(algorithms.TripleDES(key), modes.CBC(iv), backend=default_backend())
+192	    padder = padding.PKCS7(algorithms.TripleDES.block_size).padder()
+
+--------------------------------------------------
+>> Issue: [B304:blacklist] Use of insecure cipher cryptography.hazmat.primitives.ciphers.algorithms.TripleDES. Replace with a known secure cipher such as AES.
+   Severity: High   Confidence: High
+   CWE: CWE-327 (https://cwe.mitre.org/data/definitions/327.html)
+   More Info: https://bandit.readthedocs.io/en/1.8.6/blacklists/blacklist_calls.html#b304-b305-ciphers-and-modes
+   Location: shell/encryption.py:205:20
+204	
+205	    cipher = Cipher(algorithms.TripleDES(key), modes.CBC(iv), backend=default_backend())
+206	    decryptor = cipher.decryptor()
+
+--------------------------------------------------
+>> Issue: [B102:exec_used] Use of exec detected.
+   Severity: Medium   Confidence: High
+   CWE: CWE-78 (https://cwe.mitre.org/data/definitions/78.html)
+   More Info: https://bandit.readthedocs.io/en/1.8.6/plugins/b102_exec_used.html
+   Location: shell/polymorph.py:29:8
+28	        local_scope = {}
+29	        exec(func_code, {'encrypt_func': encrypt_func}, local_scope)
+30	        #print("[DEBUG] Using dynamic exec-generated wrapper.")
+
+--------------------------------------------------
+>> Issue: [B311:blacklist] Standard pseudo-random generators are not suitable for security/cryptographic purposes.
+   Severity: Low   Confidence: High
+   CWE: CWE-330 (https://cwe.mitre.org/data/definitions/330.html)
+   More Info: https://bandit.readthedocs.io/en/1.8.6/blacklists/blacklist_calls.html#b311-random
+   Location: shell/polymorph.py:38:11
+37	
+38	    return random.choice(wrappers)
+39	
+
+--------------------------------------------------
+>> Issue: [B102:exec_used] Use of exec detected.
+   Severity: Medium   Confidence: High
+   CWE: CWE-78 (https://cwe.mitre.org/data/definitions/78.html)
+   More Info: https://bandit.readthedocs.io/en/1.8.6/plugins/b102_exec_used.html
+   Location: shell/polymorph.py:64:8
+63	        local_scope = {}
+64	        exec(func_code, {'decrypt_func': decrypt_func}, local_scope)
+65	        #print("[DEBUG] Using dynamic exec-generated wrapper.")
+
+--------------------------------------------------
+>> Issue: [B311:blacklist] Standard pseudo-random generators are not suitable for security/cryptographic purposes.
+   Severity: Low   Confidence: High
+   CWE: CWE-330 (https://cwe.mitre.org/data/definitions/330.html)
+   More Info: https://bandit.readthedocs.io/en/1.8.6/blacklists/blacklist_calls.html#b311-random
+   Location: shell/polymorph.py:71:11
+70	
+71	    return random.choice(wrappers)
+
+--------------------------------------------------
+>> Issue: [B404:blacklist] Consider possible security implications associated with the subprocess module.
+   Severity: Low   Confidence: High
+   CWE: CWE-78 (https://cwe.mitre.org/data/definitions/78.html)
+   More Info: https://bandit.readthedocs.io/en/1.8.6/blacklists/blacklist_imports.html#b404-import-subprocess
+   Location: shell/reverse_shell.py:3:0
+2	import socket
+3	import subprocess
+4	from shell import encryption
+
+--------------------------------------------------
+>> Issue: [B605:start_process_with_a_shell] Starting a process with a shell, possible injection detected, security issue.
+   Severity: High   Confidence: High
+   CWE: CWE-78 (https://cwe.mitre.org/data/definitions/78.html)
+   More Info: https://bandit.readthedocs.io/en/1.8.6/plugins/b605_start_process_with_a_shell.html
+   Location: shell/reverse_shell.py:75:21
+74	            # Run command and capture output
+75	            output = subprocess.getoutput(command)
+76	
+
+--------------------------------------------------
+
+Code scanned:
+	Total lines of code: 362
+	Total lines skipped (#nosec): 0
+	Total potential issues skipped due to specifically being disabled (e.g., #nosec BXXX): 0
+
+Run metrics:
+	Total issues (by severity):
+		Undefined: 0
+		Low: 6
+		Medium: 3
+		High: 3
+	Total issues (by confidence):
+		Undefined: 0
+		Low: 0
+		Medium: 1
+		High: 11
+Files skipped (0):

@@ -8,6 +8,7 @@ And please feel free to contact me and ask for the source code, and I will be ha
 ## :star2: Projects
 
 - Cybersecurity Specialization Module: 
+    - [Shifty Shell: Polymorphic SSH Reverse Shell](./shifty-shell/) (July 2025)
     - [Bug Bounty: Penetration Testing](./bug-bounty/) (July 2025)
     - [InvisiBits: Steganography Tool](./invisibits/) (June 2025)
     - [Port Prowler: Port Scanning Tool](./port-prowler/) (June 2025)
