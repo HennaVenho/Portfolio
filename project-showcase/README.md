@@ -8,6 +8,7 @@ And please feel free to contact me and ask for the source code, and I will be ha
 ## :star2: Projects
 
 - Cybersecurity Specialization Module: 
+    - [Binary Fusion: Multiple ELF Executable Fusion Tool](./binary-fusion/) (September 2025)
     - [Encrypt-o-matic: Windows/Linux Executable Encryptor Tool](./encrypt-o-matic/) (August 2025)
     - [Shifty Shell: Polymorphic SSH Reverse Shell](./shifty-shell/) (July 2025)
     - [Bug Bounty: Penetration Testing](./bug-bounty/) (July 2025)
