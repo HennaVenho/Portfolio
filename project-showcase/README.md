@@ -7,6 +7,9 @@ And please feel free to contact me and ask for the source code, and I will be ha
 
 ## :star2: Projects
 
+- Embedded Systems Specialization Module: 
+    - [C-sprint: Learning Pure C and Memory Management](./c-sprint/) (September 2025)
+
 - Cybersecurity Specialization Module: 
     - [Binary Fusion: Multiple ELF Executable Fusion Tool](./binary-fusion/) (September 2025)
     - [Encrypt-o-matic: Windows/Linux Executable Encryptor Tool](./encrypt-o-matic/) (August 2025)
