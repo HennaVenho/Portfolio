@@ -1,4 +1,4 @@
-# NASA Space Apps Challenge
+# 🚀 NASA Space Apps Challenge
 
 ## Challenge: International Space Station 25th Anniversary Apps
 
@@ -6,7 +6,7 @@ Crews onboard the International Space Station have many unique opportunities! Th
 
 ---
 
-## Our Solution
+## 🔦 Our Solution
 
 ### Neutral Buoyancy Laboratory
 
@@ -22,7 +22,7 @@ As we had a two part challenge, we also decided to address the **Cupola** challe
 
 ---
 
-## Project Demonstration
+## 👾 Project Demonstration
 
 - YouTube video: <a href="https://youtu.be/-fh3i7CEMRM">1337ISSDragons presents Buoyancy Situation</a>
 
@@ -30,9 +30,9 @@ As we had a two part challenge, we also decided to address the **Cupola** challe
 
 ---
 
-## Team: 1337ISSDragons
+## 💪 Team: 1337ISSDragons
 
-Risto Koskenkorva
-Maksim Korobkin
-Mikko Venäläinen
-Henna Venho
+- Risto Koskenkorva
+- Maksim Korobkin
+- Mikko Venäläinen
+- Henna Venho
