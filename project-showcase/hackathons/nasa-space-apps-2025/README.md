@@ -1,6 +1,6 @@
 # 🚀 NASA Space Apps Challenge
 
-## Challenge: International Space Station 25th Anniversary Apps
+## 🧩 Challenge: International Space Station 25th Anniversary Apps
 
 Crews onboard the International Space Station have many unique opportunities! They witness breathtaking Earth views from the station's cupola — known as "the window to the world." ​​They also experience weightlessness and go outside the station on spacewalks, for which they must train extensively in the Neutral Buoyancy Laboratory (NBL) at the Sonny Carter Training Facility in Houston, Texas. Your challenge is to create a visual tool that not only helps students and the public understand two of the most prominent sensory experiences on the station (sight and weightlessness) through the lens of the cupola and the NBL, but also informs them how these unique experiences benefit humans on Earth. (Space Operations Mission Directorate)
 
@@ -32,7 +32,7 @@ As we had a two part challenge, we also decided to address the **Cupola** challe
 
 ## 💪 Team: 1337ISSDragons
 
-- Risto Koskenkorva
 - Maksim Korobkin
+- Risto Koskenkorva
 - Mikko Venäläinen
 - Henna Venho
