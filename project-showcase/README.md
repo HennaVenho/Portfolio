@@ -7,7 +7,7 @@ And please feel free to contact me and ask for the source code, and I will be ha
 
 ## :star2: Projects
 
-- [NASA Space Apps Challenge](./hackathons/nasa-space-apps) (October 4-5, 2025)
+- [NASA Space Apps Challenge](./hackathons/nasa-space-apps-2025) (October 4-5, 2025)
 
 - Embedded Systems Specialization Module: 
     - [Analogue & Digital I/O](./io/) (October 2025)
