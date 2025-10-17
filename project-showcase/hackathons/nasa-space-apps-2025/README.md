@@ -28,7 +28,11 @@ As we had a two part challenge, we also decided to address the **Cupola** challe
 
 - Website with link to the game: <a href="https://1337issdragons.earth/game.html">https://1337issdragons.earth/game.html</a>
 
-- Images: [`images/`](./images/)
+- Screenshots and other images: 
+    - [`images/website-screenshots`](./images/website-screenshots/)
+    - [`images/game-screenshots`](./images/game-screenshots/)
+    - [`images/profile-images`](./images/profiles/)
+    - [`images/logos`](./images/logos/)
 
 ---
 
