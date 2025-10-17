@@ -34,6 +34,8 @@ As we had a two part challenge, we also decided to address the **Cupola** challe
     - [`images/profile-images`](./images/profiles/)
     - [`images/logos`](./images/logos/)
 
+- NASA Certificate: [Galactic Problem Solver](./NASA-Space-Apps-2025-Certificate.pdf)
+
 ---
 
 ## 💪 Team: 1337ISSDragons
