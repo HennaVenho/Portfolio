@@ -7,7 +7,10 @@ And please feel free to contact me and ask for the source code, and I will be ha
 
 ## :star2: Projects
 
+- [NASA Space Apps Challenge](./hackathons/nasa-space-apps) (October 4-5, 2025)
+
 - Embedded Systems Specialization Module: 
+    - [Analogue & Digital I/O](./io/) (October 2025)
     - [C-sprint: Learning Pure C and Memory Management](./c-sprint/) (September 2025)
 
 - Cybersecurity Specialization Module: 

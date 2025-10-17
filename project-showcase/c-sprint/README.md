@@ -44,6 +44,15 @@ This project serves both as a **systems programming learning tool** and a **perf
 
 ## :jigsaw: Getting Started
 
+### Clone the Repository
+
+```bash
+git clone https://github.com/HennaVenho/c-sprint.git
+cd c-sprint
+```
+
+---
+
 ### To Run the Official Test Suite (Recommended):
 
 1. **Pull the Docker image:**
