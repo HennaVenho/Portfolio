@@ -7,11 +7,13 @@ And please feel free to contact me and ask for the source code, and I will be ha
 
 ## :star2: Projects
 
-- [NASA Space Apps Challenge](./hackathons/nasa-space-apps-2025) (October 4-5, 2025)
-
 - Embedded Systems Specialization Module: 
+    - [Lift Control System (DTCM)](./lift/) (December 2025)
     - [Analogue & Digital I/O](./io/) (October 2025)
     - [C-sprint: Learning Pure C and Memory Management](./c-sprint/) (September 2025)
+
+- Hackathons: 
+    - [NASA Space Apps Challenge](./hackathons/nasa-space-apps-2025) (October 4-5, 2025)
 
 - Cybersecurity Specialization Module: 
     - [Binary Fusion: Multiple ELF Executable Fusion Tool](./binary-fusion/) (September 2025)
