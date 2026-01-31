@@ -8,6 +8,7 @@ And please feel free to contact me and ask for the source code, and I will be ha
 ## :star2: Projects
 
 - Embedded Systems Specialization Module: 
+    - [Zones: Alarm Control Module (ACM) ](./zones/) (January 2026)
     - [Lift Control System (DTCM)](./lift/) (December 2025)
     - [Analogue & Digital I/O](./io/) (October 2025)
     - [C-sprint: Learning Pure C and Memory Management](./c-sprint/) (September 2025)
