@@ -58,7 +58,6 @@ See [Project Demonstration Videos](#movie_camera-project-demonstration-videos) f
 - [Usage Guide](#rocket-usage-guide)
 - [Bonus Features](#gift-bonus-features)
 - [Project Demonstration Videos](#movie_camera-project-demonstration-videos)
-- [Key Concepts](#key-key-concepts)
 - [Author](#female_detective-author)
 
 ---
