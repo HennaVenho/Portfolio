@@ -1561,7 +1561,8 @@ body.is-touch .poptrox-popup .closer {
 	flex-wrap: wrap;
 	width: 45em;
 	max-width: 100%;
-	margin: 0 auto 2em auto;
+	margin: 0 auto 0 auto;
+	/* margin: 0 auto 2em auto; */
 }
 
 .gallery article {
@@ -1603,7 +1604,7 @@ body.is-touch .poptrox-popup .closer {
 
 .gallery-subtitle {
 	text-align: center;
-	font-size: 12px;
+	font-size: 14px;
 	font-weight: normal;
 	margin-top: 0px;
 	color: #1a0c20;
