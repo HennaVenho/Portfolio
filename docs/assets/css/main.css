@@ -1603,9 +1603,9 @@ body.is-touch .poptrox-popup .closer {
 
 .gallery-subtitle {
 	text-align: center;
-	font-size: 12px;
+	font-size: 8px;
 	font-weight: normal;
-	margin-top: 5px;
+	margin-top: 0px;
 	color: #1a0c20;
 }
 
