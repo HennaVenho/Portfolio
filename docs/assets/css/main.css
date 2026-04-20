@@ -1601,6 +1601,14 @@ body.is-touch .poptrox-popup .closer {
 	color: #895c9e;
 }
 
+.gallery-subtitle {
+	text-align: center;
+	font-size: 12px;
+	font-weight: normal;
+	margin-top: 5px;
+	color: #1a0c20;
+}
+
 .gallery article:nth-last-child(1n) {
 	-moz-transition-delay: 0.05s;
 	-webkit-transition-delay: 0.05s;
