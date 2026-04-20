@@ -1996,10 +1996,12 @@ body.is-touch .poptrox-popup .closer {
 	left: 0;
 	top: 0;
 	width: 100%;
-	background: rgba(255, 255, 255, 0.95);
+	/* background: rgba(255, 255, 255, 0.95); */
+	background: rgba(20, 20, 20, 0.95);
+	box-shadow: 0 0 0.15em 0 rgba(255, 255, 255, 0.1);
 	height: 3em;
 	line-height: 3em;
-	box-shadow: 0 0 0.15em 0 rgba(0, 0, 0, 0.1);
+	/* box-shadow: 0 0 0.15em 0 rgba(0, 0, 0, 0.1); */
 }
 
 #header h1 {
@@ -2013,6 +2015,7 @@ body.is-touch .poptrox-popup .closer {
 
 #header h1 a {
 	font-size: 1.25em;
+	color: #ffffff;
 }
 
 #header nav {
@@ -2041,6 +2044,7 @@ body.is-touch .poptrox-popup .closer {
 	line-height: 3em;
 	padding: 0 0.5em 0 0.5em;
 	outline: 0;
+	color: #ffffff;
 }
 
 @media screen and (max-width: 736px) {
@@ -2341,7 +2345,8 @@ body.is-touch .main {
 	margin: 0;
 	line-height: 1em;
 	padding: 1.5em;
-	background: #39454b;
+	/* background: #39454b; */
+	background: #000000;
 	color: rgba(185, 186, 187, 0.5);
 	overflow: hidden;
 }
@@ -2532,3 +2537,36 @@ ul .li-skills {
 .popup-link a:hover {
 	background: rgba(255, 255, 255, 0.4);
 } */
+
+/* Global Dark Mode Override */
+body {
+	background: #1a1a1a;
+	/* Dark gray/black */
+	color: #e5e5e5;
+	/* Off-white text */
+}
+
+.box,
+.box.style2 {
+	background: #252525;
+	/* Slightly lighter gray for boxes */
+	color: #ffffff;
+}
+
+/* Fix for the Main sections that aren't fullscreen */
+.main.style3.primary {
+	background: #1a1a1a;
+}
+
+.main.style3.secondary {
+	background: #111111;
+}
+
+/* Ensure headings are visible */
+h1,
+h2,
+h3,
+strong,
+b {
+	color: #ffffff;
+}
