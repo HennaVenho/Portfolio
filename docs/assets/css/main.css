@@ -1615,6 +1615,21 @@ body.is-touch .poptrox-popup .closer {
 	color: #1a0c20;
 }
 
+/* Ensure the link looks like the rest of your subtitle text */
+.gallery-subtitle a {
+	color: inherit;
+	/* Keeps it #1a0c20 */
+	text-decoration: none;
+	/* Removes the default underline if you don't want it */
+	border-bottom: 1px dotted #895c9e;
+	/* Optional: adds a subtle "link" feel */
+}
+
+.gallery-subtitle a:hover {
+	color: #895c9e;
+	/* Changes color when someone hovers over it */
+}
+
 .gallery article:nth-last-child(1n) {
 	-moz-transition-delay: 0.05s;
 	-webkit-transition-delay: 0.05s;
