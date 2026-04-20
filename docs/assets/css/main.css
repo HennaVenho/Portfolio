@@ -1599,6 +1599,7 @@ body.is-touch .poptrox-popup .closer {
 	font-size: 16px;
 	font-weight: bold;
 	margin-top: 5px;
+	margin-bottom: 2px;
 	color: #895c9e;
 }
 
@@ -1607,6 +1608,10 @@ body.is-touch .poptrox-popup .closer {
 	font-size: 14px;
 	font-weight: normal;
 	margin-top: 0px;
+	margin-bottom: 10px;
+	/* Space between subtitle and the image below */
+	line-height: 1.2;
+	/* Reduces the gap between lines of text */
 	color: #1a0c20;
 }
 
